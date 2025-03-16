@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Olá, Sou o João Victor Pavan</h1>
+<h3 align="center">Desenvolvedor Full Stack em Formação </h3>
 
-<!--
-**Joojjuuk/Joojjuuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Linguagens em Desenvolvimento
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+</p>
+
+---
+
+### 🎯 Projetos em Destaque
+
+- ☕ [Projeto Java](--colocarlinkdps) - Desenvolvimento Java em andamento
+- 📱 [Projeto em Flutter] - Desenvolvimento em andamento
+
+---
+
+### 🌟 Hobbies
+
+- 🏋️ Academia
+- 🎮 Jogos eletrônicos
+
+---
+
+<h3 align="center">Redes Sociais</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/joão-victor-pavan-796aab263" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:pavanjoaovictor@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</p>
