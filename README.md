@@ -14,7 +14,7 @@
 
 ### 🎯 Projetos em Destaque
 
-- ☕ [Projeto Java](--colocarlinkdps) - Desenvolvimento Java em andamento
+- 🖋 [Projeto Banco de Tintas](https://github.com/Joojjuuk/BancoDeTintas)
 - 📱 [Projeto em Flutter] - Desenvolvimento em andamento
 
 ---
